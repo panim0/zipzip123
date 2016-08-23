@@ -7,3 +7,4 @@ d[asld
 ;das[';
 as;d;as
 d;
+cok konusma len 
